@@ -81,4 +81,5 @@
 
     <!-- Memory info -->
     <string name="meminfo_text">%1$s disponível | %2$s</string>
+    <string name="recents_meminfo_title">Informações de memória</string>
 </resources>
